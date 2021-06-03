@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The reformado's remonstrance. In the vindication of their proceedings with the Citie of London and Parliament. Clearing themselves from all aspersions unjustly throwne upon them, as actuall against the army. From the 26. of July to the 6. of August 1647.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92331</idno><idno type="EEBO-CITATION">99862328</idno>
+  <idno type="VID">160449</idno>
+  <idno type="EEBO-PROQUEST">2240914066</idno>
+  
+            <idno type="STC">Wing R737</idno>
+            <idno type="STC">Thomason E402_33</idno>
+            <idno type="STC">ESTC R201837</idno>
+            <idno type="PROQUEST">99862328</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862328e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92331)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160449)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E402[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The reformado's remonstrance. In the vindication of their proceedings with the Citie of London and Parliament. Clearing themselves from all aspersions unjustly throwne upon them, as actuall against the army. From the 26. of July to the 6. of August 1647.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aug: 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160449:1"/>
+            <p>THE REFORMADO'S Remonstrance.</p>
+            <p>In the Vindication of their Proceedings with the Citie of LONDON and PARLIAMENT.</p>
+            <p>Clearing themselves from all Aspersions unjustly throwne upon them, as actuall against the ARMY.</p>
+            <p>From the 26. of <hi>July</hi> to the 6. of <hi>August</hi> 1647.</p>
+            <p>
+               <hi>Omne nimium vectitur in vitium.</hi>
+            </p>
+            <p>Printed in the yeer 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160449:2"/>
+            <pb n="1" facs="tcp:160449:2"/>
+            <head>THE REFORMADOES REMONSTRANCE.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the deepest sence of the sad di<g ref="char:EOLhyphen"/>straction of these selfe-consuming Times; too many envying the yet breathing hopes of a future hap<g ref="char:EOLhyphen"/>pinesse, thirst to have their hands as well as hearts, tinct with equall Dye of Innocent blood; whose vast and unbounded thoughts mix Policie with Practice, to the advancement of their wicked ends, though through the bowels of a bleeding King<g ref="char:EOLhyphen"/>dome; which by the seditious and over-strea<g ref="char:EOLhyphen"/>ming violence, with the selfe-honouring aymes of Many; hath lost so much Life-blood, that we lye
+<pb n="2" facs="tcp:160449:3"/>gasping to the Death; few, or none condoling ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> distresse, as if a dead Apoplexie, an universall num<g ref="char:EOLhyphen"/>nesse had seized on all our Powers; both Nature and Religion, being turned <hi>Antipodes,</hi> acting all things in contrarieties; too monstrously evident, though in the subterraneous workings of close Con<g ref="char:EOLhyphen"/>spirators, hinged on by Pulpit-Incendiaries; all agitating to a bloody Deluge, and the fatall, finall Tragedy of this once so glorious a Nation: Which to prevent, our dearest Blood should become a loy<g ref="char:EOLhyphen"/>all sacrifice, and willingly we would exchange Mor<g ref="char:EOLhyphen"/>tality for the Kingdomes peace and Churches pros<g ref="char:EOLhyphen"/>perity.</p>
+            <p>And because there never wanteth Instruments, whose expans't desires second any Designes, be they never so pernicious; having nothing in their eyes but sinister ends, which oft times, reflect upon the Spectators as well as Actors.</p>
+            <p>Wee doe unfainedly (for our selves) declare to all, whose hearts were never tainted with disloyal<g ref="char:EOLhyphen"/>ty, that we never (since the dreadfull fire of this un<g ref="char:EOLhyphen"/>civill Civil Warre began to flash astonishment in our Faces) engaged in any Military employment but for the Parliarment, conscientiously adhering to their Cause, and faithfully performing their Commands, with the hazard of our lives, with<g ref="char:EOLhyphen"/>out the least desertion, untill our severall Dis<g ref="char:EOLhyphen"/>bandings.</p>
+            <p>And hearing of an Ordinance published for the payment of Arreares due to Officers and Souldiers,
+<pb n="3" facs="tcp:160449:3"/>were induced thereby (many of us from the remoter parts of this Kingdome) to claime our Right, and equality of Priviledge (according to our severall re<g ref="char:EOLhyphen"/>lations) in the said Ordinance: but comming up too late, became incapable of that Benefit, by reason the Moneys extended by that Ordinance were insuf<g ref="char:EOLhyphen"/>ficient for the discharge the first List: Whereupon we were enforced (but with unparaleld patience and civility) to multiply our prayers at the Door of that high Court) humbly soliciting for respect unto our growing and prevailing miseries; but our ad<g ref="char:EOLhyphen"/>dresses were procastinated as our pressures daily en<g ref="char:EOLhyphen"/>creased, by many obstructions and intervals of Par<g ref="char:EOLhyphen"/>liamentary proceedings; yet not without some quickning hopes, untill that grand and unheard of piece of Barbarisme so rudely acted by the Appren<g ref="char:EOLhyphen"/>tices, to the abolition of authority, and most emi<g ref="char:EOLhyphen"/>nent violation of all Legall, Nationall and Parlia<g ref="char:EOLhyphen"/>mentall priviledges: In which act, we doe disclaim the least of correspondence, as knowing the end of Mutiny, and the merit of such bold Distactions.</p>
+            <p>And because the Innocent with Nocent oft share alike in shame and suffering, wee doe further de<g ref="char:EOLhyphen"/>clare, That under that generall notion of <hi>Refor<g ref="char:EOLhyphen"/>madoes,</hi> we have undergone no little detriment both in Reputation and Fidelity, occasined by some, we wish had been lesse active: for when the City used many enforcing cals (every Post presenting loud characters of their Intents) coloured over with the specious pretences of a publick Peace, Honour of
+<pb n="4" facs="tcp:160449:4"/>his Majesty, settlement of Religion, defence of Par<g ref="char:EOLhyphen"/>liament, performance of Covenant, and a generall good; each particular of power to involve (we say nor to ensnare) thousands, and engage men (as many of us are) of meerly Military Fortunes; yet even then we lookt (without the least adhering) upon them as the author and actors of sedition, besotted with a happinesse to be miserable, and driving on a way through their owne Bowels to Prosperity: Neither did we side with the least of their resolves (our am<g ref="char:EOLhyphen"/>bition being onely with patience to attend our Pay) much lesse enterrain (within our worst of thoughts) any thing that might encourage or embroyle us in a new, but farre more fatall VVarre, oppose the Ar<g ref="char:EOLhyphen"/>my (having formerly been subject to the same Com<g ref="char:EOLhyphen"/>mand) or be destructive to the power, priviledge and proceedings of Parliament.</p>
+            <p>Yet were it lawfull for Subjects (as things are swayed) to challenge liberty of speech in a self-vin<g ref="char:EOLhyphen"/>dication, we durst appeale unto the meanest judg<g ref="char:EOLhyphen"/>ment, that if we had applyed unto the Cities Army (cryed up as onely defensive) it could not therefore render us as guilty, being then, through long atten<g ref="char:EOLhyphen"/>dance for our Pay, many of us ready to perish (and yet hopelesse of deserved Reliefe) especially seeing we could make no addresse to the Army, having for<g ref="char:EOLhyphen"/>merly sentenc't our departure from the City, as un<g ref="char:EOLhyphen"/>capable of that common liberty, and infus'd this jea<g ref="char:EOLhyphen"/>lousie into us, as unworthy that satisfactory influ<g ref="char:EOLhyphen"/>ence from the Parliament, which our merits may
+<pb n="5" facs="tcp:160449:4"/>equally and justly claime; but rather reflect upon the first fomentors, who rising in a tempest was so soon calm'd by those base fears that first gave wings and being to their councels.</p>
+            <p>Therefore out of the integrity of our hearts and candor of our actions, we hope to find a faire con<g ref="char:EOLhyphen"/>struction in all truly enobled hearts, and correspon<g ref="char:EOLhyphen"/>dence with the most fidelious to the Publick-weale, not doubting but our honourable Masters the Par<g ref="char:EOLhyphen"/>iament, whom we have served in greatest dangers, will not dismisse us empty, but set such a character of their love upon us, in the retribution of our dues, as may speak them famous to Posterity, and not only encourage, but engage our best of fortune, even all we are, for the publick good, and their perpetuall preservation.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
